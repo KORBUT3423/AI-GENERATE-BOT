@@ -1,0 +1,77 @@
+{
+  "7271120317": {
+    "lang": "ru",
+    "first_seen": 1764458467,
+    "last_input": "inputs/damage_7271120317_1766974030.jpg",
+    "last_file": "inputs/damage_7271120317_1764630243.jpg",
+    "chosen_effect": "broken",
+    "awaiting_prompt": false,
+    "login_ok": false,
+    "wrong_attempts": 3,
+    "blocked_until": "2025-12-03T22:22:23.176829"
+  },
+  "8088289568": {
+    "lang": "ru",
+    "first_seen": 1764466182,
+    "last_input": "inputs/damage_8088289568_1764466245.jpg"
+  },
+  "7738390441": {
+    "lang": "ru",
+    "first_seen": 1764542559,
+    "last_input": "inputs/damage_7738390441_1768854444.jpg",
+    "last_file": "inputs/damage_7738390441_1764550415.jpg",
+    "chosen_effect": "scratch",
+    "login_ok": true,
+    "wrong_attempts": 0,
+    "blocked_until": null,
+    "awaiting_prompt": false,
+    "custom_prompt": "нечего не меняй, просто добавь не левую фотографию такую же рваность как на правом фото"
+  },
+  "8226207890": {
+    "lang": "ru",
+    "first_seen": 1764716915,
+    "last_input": "inputs/damage_8226207890_1774287000.jpg",
+    "awaiting_prompt": false,
+    "custom_prompt": "улучши качество фото, но нечего не меняй"
+  },
+  "7552663992": {
+    "lang": "en",
+    "first_seen": 1764718659,
+    "last_input": "inputs/damage_7552663992_1764718830.jpg",
+    "awaiting_prompt": false
+  },
+  "977414008": {
+    "lang": "ua",
+    "first_seen": 1764742104,
+    "last_input": "inputs/damage_977414008_1764742156.jpg",
+    "awaiting_prompt": false
+  },
+  "810191797": {
+    "lang": "ua",
+    "first_seen": 1764749887,
+    "last_input": "inputs/damage_810191797_1764750081.jpg",
+    "awaiting_prompt": false
+  },
+  "8459238498": {
+    "lang": "ua",
+    "first_seen": 1764750533,
+    "last_input": "inputs/damage_8459238498_1764751188.jpg",
+    "awaiting_prompt": false
+  },
+  "1054187923": {
+    "lang": "ru",
+    "first_seen": 1766992489
+  },
+  "7580048407": {
+    "lang": "ru",
+    "first_seen": 1766994226
+  },
+  "8432645955": {
+    "lang": "ru",
+    "first_seen": 1767012996
+  },
+  "2060415981": {
+    "lang": "ru",
+    "first_seen": 1767379029
+  }
+}
